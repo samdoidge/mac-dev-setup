@@ -25,3 +25,6 @@ type 'git' in terminal to do this and hit enter
 
 ### Install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+### Laravel
+#### Install Homestead
