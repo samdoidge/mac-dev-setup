@@ -22,3 +22,6 @@ cmd+shift+p - Themr - select themes - select material theme, restart Sublime.
 
 ### Install Command Line Tools
 type 'git' in terminal to do this and hit enter
+
+### Install Homebrew
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
