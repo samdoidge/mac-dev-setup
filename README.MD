@@ -2,6 +2,20 @@
 
 ## Install OSX
 
+### Sublime Text
+
 Download Sublime Text http://www.sublimetext.com/3
 
 Install Sublime Text Package Manager https://packagecontrol.io/installation
+
+Restart Sublime
+
+Use package control to install Themr (cmd+shift+p) and type install - select install package, then search for Themr - press enter.
+
+Install Material theme in the same way - https://github.com/equinusocio/material-theme
+
+cmd+shift+p - Themr - select themes - select material theme, restart Sublime.
+
+### Install Virtual Box
+
+### Install Vagrant
