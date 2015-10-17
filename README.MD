@@ -19,3 +19,6 @@ cmd+shift+p - Themr - select themes - select material theme, restart Sublime.
 ### Install Virtual Box
 
 ### Install Vagrant
+
+### Install Command Line Tools
+type 'git' in terminal to do this and hit enter
