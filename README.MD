@@ -34,11 +34,11 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 #### Install Homestead
 configure path in ~/.homstead.yaml
 
-
 ### Install composer
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
 Add composer to your PATH variable:
 in ~/
-vi .bash_profile 
+vi .bash_profile
 
+#### Install Sequel Pro
