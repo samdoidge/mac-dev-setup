@@ -2,6 +2,10 @@
 
 ## Install OSX
 
+## Public Keys
+
+Download backed up .ssh folder and place in ~/
+
 ### Sublime Text
 
 Download Sublime Text http://www.sublimetext.com/3
