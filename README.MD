@@ -1,6 +1,6 @@
-# New Mac Setup
+# Mac Dev Setup
 
-My development setup on a fresh OS X install. For PHP development with Laravel framework using Homestead setup on Vagrant.
+My development setup on a fresh OS X install. For PHP development with Laravel framework using Homestead setup on Vagrant. Test on OS X 10.11 El Capitan. I've used 'search for' in places so to prevent this guide being instantlly obsolete. 
 
 - [Private Key](#private-key)
 - [Sublime Text](#sublime-text)
@@ -53,7 +53,7 @@ Following instructions on Laravel Homestead pages
 configure path in ~/.homstead.yaml
 
 ## Laravel
-Use the composer install command - check laravel website.
+Use the composer install command - check laravel website.x
 
 Add composer to your PATH variable:
 in ~/
