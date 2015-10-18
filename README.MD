@@ -1,12 +1,17 @@
 # New Mac Setup
 
-Fresh developer setup on a Macbook pro.
+Fresh developer setup on a Macbook pro after installing OS X.
 
-- Install OS X
-- [Install Keys](#install-keys)
+- [Private Key](#private-key)
 - [Sublime Text](#sublime-text)
+- [Virtual Box](#virtual-box)
+- [Vagrant](#vagrant)
+- [Command Line Tools](#command-line-tools)
+- [Homebrew](#homebrew)
+- [Laravel](#laravel)
+- [Sequel Pro](#sequel-pro)
 
-## Install keys
+## Private key
 
 Download backed up .ssh folder from Dropbox and place in home folder (~/)
 
@@ -24,18 +29,22 @@ Install Material theme in the same way - https://github.com/equinusocio/material
 
 cmd+shift+p - Themr - select themes - select material theme, restart Sublime.
 
-### Install Virtual Box
+## Virtual Box
 
-### Install Vagrant
+Search and download Virtual Box for Mac
 
-### Install Command Line Tools
-type 'git' in terminal to do this and hit enter
+## Vagrant
 
-### Install Homebrew
+Search and download Vagrant for Mac
+
+## Command Line Tools
+type 'git' in terminal to do this and hit enter - you will be promted to install X Code command line tools - do so
+
+## Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-### Laravel
-#### Install Homestead
+## Laravel
+### Install Homestead
 configure path in ~/.homstead.yaml
 
 ### Install composer
@@ -45,7 +54,7 @@ Add composer to your PATH variable:
 in ~/
 vi .bash_profile
 
-#### Install Sequel Pro
+## Install Sequel Pro
 
 
 # Mac OS X Dev Setup
