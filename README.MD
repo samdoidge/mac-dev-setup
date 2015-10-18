@@ -1,8 +1,8 @@
-# Setup
+# Setup New Mac
 
 ## Install OSX
 
-## Public Keys
+## Copy .ssh folder from dropbox to copy 
 
 Download backed up .ssh folder and place in ~/
 
