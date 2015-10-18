@@ -3,8 +3,8 @@
 Fresh developer setup on a Macbook pro.
 
 - Install OS X
-- Install Keys(#install-keys)
-- Sublime Text(#sublime-text)
+- [Install Keys](#install-keys)
+- [Sublime Text](#sublime-text)
 
 ## Install keys
 
