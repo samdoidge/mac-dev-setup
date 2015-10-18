@@ -1,12 +1,18 @@
-# Setup
+# New Mac Setup
 
-## Install OSX
+Fresh developer setup on a Macbook pro.
 
-## Public Keys
+- Install OS X
+- Install Keys(#install-keys)
+- Sublime Text(#sublime-text)
 
-Download backed up .ssh folder and place in ~/
 
-### Sublime Text
+
+## Install keys
+
+Download backed up .ssh folder from Dropbox and place in home folder (~/)
+
+## Sublime Text
 
 Download Sublime Text http://www.sublimetext.com/3
 
