@@ -1,6 +1,8 @@
 # Setup New Mac
 
 ## Install OSX
+- [System update](#system-update)
+- Install OS X
 
 ## Copy .ssh folder from dropbox to copy 
 
