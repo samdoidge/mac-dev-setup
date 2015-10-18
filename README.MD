@@ -1,6 +1,6 @@
 # New Mac Setup
 
-Fresh developer setup on a Macbook pro after installing OS X. PHP development with Laravel framework using Homestead setup on Vagrant.
+My development setup on a fresh OS X install. For PHP development with Laravel framework using Homestead setup on Vagrant.
 
 - [Private Key](#private-key)
 - [Sublime Text](#sublime-text)
@@ -8,9 +8,9 @@ Fresh developer setup on a Macbook pro after installing OS X. PHP development wi
 - [Vagrant](#vagrant)
 - [Command Line Tools](#command-line-tools)
 - [Homebrew](#homebrew)
-- [Laravel](#laravel)
-- [Homestead](#homestead)
 - [Composer](#composer)
+- [Homestead](#homestead)
+- [Laravel](#laravel)
 - [Sequel Pro](#sequel-pro)
 
 ## Private key
@@ -45,12 +45,15 @@ type 'git' in terminal to do this and hit enter - you will be promted to install
 ## Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-## Laravel
-## Homestead
-configure path in ~/.homstead.yaml
-
 ##Install composer
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+## Homestead
+Following instructions on Laravel Homestead pages
+configure path in ~/.homstead.yaml
+
+## Laravel
+Use the composer install command - check laravel website.
 
 Add composer to your PATH variable:
 in ~/
