@@ -12,6 +12,7 @@ My development setup on a fresh OS X install. For PHP development with Laravel f
 - [Homestead](#homestead)
 - [Laravel](#laravel)
 - [Sequel Pro](#sequel-pro)
+- [Jekyll](#jekyll)
 
 ## Private key
 
@@ -62,4 +63,8 @@ vi .bash_profile
 ## Install Sequel Pro
 Google and download
 
+## Jekyll
+In terminal: sudo gem install jekyll
+
+Clone a jekyll installation, and enter 'jekyll serve' in the site folder to launch locally
 If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/samdoidge)!
